@@ -1,0 +1,9 @@
+c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+c:\users\palina_berazavikova\rep\NewRepo\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+c:\users\palina_berazavikova\rep\NewRepo\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+c:\users\palina_berazavikova\rep\NewRepo\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,275 @@
+EXCEPTIONS:
+Exception Was Found 10/7/2016 1:21:13 PM
+Type: System.IO.FileNotFoundException
+Message: file sfdsfdsf doesn't exist
+
+
+Exception Was Found 10/7/2016 1:21:26 PM
+Type: System.IO.FileNotFoundException
+Message: file C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\nottxt.txt doesn't exist
+
+
+Exception Was Found 10/7/2016 1:21:31 PM
+Type: ExceptionHandling.Exceptions.EmptyFileException
+Message: empty file C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\empty.txt
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 1:21:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #11 was founded
+
+
+Exception Was Found 10/7/2016 3:07:10 PM
+Type: ExceptionHandling.Exceptions.EmptyFileException
+Message: empty file C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\empty.txt
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #2 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #4 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #6 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #8 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #9 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 3:08:47 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #11 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 3:12:40 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #11 was founded
+
+
+Exception Was Found 10/7/2016 3:14:51 PM
+Type: System.IO.FileNotFoundException
+Message: file while ((line = file.ReadLine()) != null) doesn't exist
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #2 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #4 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #6 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #8 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #9 was founded
+
+
+Exception Was Found 10/7/2016 3:15:11 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 3:21:48 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #11 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #1 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #2 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #3 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #4 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #5 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #6 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #7 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #8 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #9 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.EmptyStringException
+Message: empty line #10 was founded
+
+
+Exception Was Found 10/7/2016 3:21:59 PM
+Type: ExceptionHandling.Exceptions.AllLinesAreEmptyException
+Message: All lines in file C:\Users\Palina_Berazavikova\Documents\Visual Studio 2015\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\test1.txt are empty
+

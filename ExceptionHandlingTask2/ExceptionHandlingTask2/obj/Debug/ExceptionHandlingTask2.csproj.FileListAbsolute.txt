@@ -1,4 +1,0 @@
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\ExceptionHandlingTask2\bin\Debug\ExceptionHandlingTask2.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\ExceptionHandlingTask2\bin\Debug\ExceptionHandlingTask2.pdb
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\ExceptionHandlingTask2\obj\Debug\ExceptionHandlingTask2.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\ExceptionHandlingTask2\obj\Debug\ExceptionHandlingTask2.pdb

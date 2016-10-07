@@ -1,9 +1,0 @@
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\TestMyConverter.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\TestMyConverter.pdb
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\ExceptionHandlingTask2.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\nunit.framework.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\ExceptionHandlingTask2.pdb
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\bin\Debug\nunit.framework.xml
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\obj\Debug\TestMyConverter.csprojResolveAssemblyReference.cache
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\obj\Debug\TestMyConverter.dll
-c:\users\palina_berazavikova\documents\visual studio 2015\Projects\ExceptionHandlingTask2\TestMyConverter\obj\Debug\TestMyConverter.pdb
